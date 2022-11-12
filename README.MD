@@ -1,2 +1,3 @@
-运行test.py   
-修改相应的测试路径
+#小鸡翻肛性别检测
+onnx加速运行   
+python demo_onnx.py即可   
