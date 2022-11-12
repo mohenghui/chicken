@@ -12,4 +12,4 @@ python demo_onnx.py即可
 
 # 小鸡翻肛门检测的打包方式   
 运行   
-!nuitka --standalone --show-progress --show-memory --enable-plugin=pyqt5 --output-dir=out demo_onnx.py
+! nuitka --standalone --show-progress --show-memory --enable-plugin=pyqt5 --output-dir=out demo_onnx.py
