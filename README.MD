@@ -15,4 +15,4 @@ python demo_onnx.py即可
 ```nuitka --standalone --show-progress --show-memory --enable-plugin=pyqt5 --output-dir=out demo_onnx.py```    
 
 # 里面用到的数据集和权重
-可通过[百度网盘](链接：https://pan.baidu.com/s/1gqYC5H-yfm0yfAAHCZIbnA)进行下载
+可通过[百度网盘](https://pan.baidu.com/s/1gqYC5H-yfm0yfAAHCZIbnA)进行下载
